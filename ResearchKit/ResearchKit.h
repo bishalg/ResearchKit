@@ -81,4 +81,4 @@
 #import <ResearchKit/ORKLineGraphChartView.h>
 #import <ResearchKit/ORKDiscreteGraphChartView.h>
 #import <ResearchKit/ORKPieChartView.h>
-
+#import <ResearchKit/ORKPieChartPieView.h>
